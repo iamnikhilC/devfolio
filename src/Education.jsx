@@ -28,15 +28,15 @@ const Education = () => {
 
         <div className="education-grid">
           {/* Card */}
-          <div className="edu-card">
-            <div className="edu-card-header">
+          <div className="card">
+            <div className="card-header">
               <div className="edu-card-title">
                 <span className="degree">Master of Computer Applications (MCA)</span>
                 <span className="date">2023</span>
               </div>
             </div>
 
-            <div className="edu-card-content">
+            <div className="card-content">
               <div className="university">Inter Institutional Computer Center, Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur</div>
               <div className="badges">
                 <span className="badge">First Class with Distinction</span>
@@ -45,15 +45,15 @@ const Education = () => {
             </div>
           </div>
 
-          <div className="edu-card">
-            <div className="edu-card-header">
+          <div className="card">
+            <div className="card-header">
               <div className="edu-card-title">
                 <span className="degree">Bachelor of Science (B.Sc.)</span>
                 <span className="date">2020</span>
               </div>
             </div>
 
-            <div className="edu-card-content">
+            <div className="card-content">
               <div className="university">Pushpak Mahavidyalaya, Umred, Nagpur</div>
               <div className="badges">
                 <span className="badge">First Class</span>
