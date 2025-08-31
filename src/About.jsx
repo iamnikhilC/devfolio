@@ -29,7 +29,7 @@ function About() {
           </div>
           <div className="card-content">
             <p>
-              I am a Full-Stack Developer specializing in <strong>Laravel</strong>, with experience in building scalable web and mobile applications. My expertise includes API development, authentication systems, and front-end integration. Recently, I’ve worked on projects like a bike taxi mobile app and a barbershop management platform (MyBarber), focusing on real-world problem-solving through clean, efficient code. I am passionate about developing user-friendly solutions, exploring modern web technologies, and continuously improving my skills.
+              I am a Full-Stack Developer specializing in <strong>Laravel (PHP)</strong>, with experience in building scalable web and mobile applications. My expertise includes API development, authentication systems, and front-end integration. Recently, I’ve worked on projects like a bike taxi mobile app and a barbershop management platform (MyBarber), focusing on real-world problem-solving through clean, efficient code. I am passionate about developing user-friendly solutions, exploring modern web technologies, and continuously improving my skills.
             </p>
             
           </div>
