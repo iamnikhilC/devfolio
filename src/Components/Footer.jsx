@@ -1,5 +1,5 @@
 import React from "react";
-import "./Portfolio.css";
+import "../Css/Portfolio.css";
 
 const Footer = () => {
 	return (
@@ -18,6 +18,7 @@ const Footer = () => {
 					{/* Right Info Section */}
 					<div className="contact-info-section">
 						<div className="contact-info">
+							<h2 className="contact-title">Contact Me</h2>
 							{/* Email */}
 							<div className="info-item">
 								<svg

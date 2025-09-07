@@ -1,5 +1,5 @@
 import React from "react";
-import "./Portfolio.css"; // custom CSS
+import "../Css/Portfolio.css"; // custom CSS
 
 const Experience = () => {
   return (

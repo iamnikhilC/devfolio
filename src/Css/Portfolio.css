@@ -38,7 +38,9 @@ body {
 	gap: 0.5rem;
 	padding: 16px;
 }
-
+.a{
+	color: white;
+}
 
 .card-title {
 	font-size: 18px;
@@ -59,7 +61,7 @@ body.dark .badge {
 }
 
 body.dark .badge,
-body.dark .buttons .btn {
+body.dark .buttons .btn{
 	background: #2e3440;
 	color: #f8f9fa;
 	border: 1px solid #666
@@ -166,6 +168,7 @@ body.dark .buttons .btn {
 	border: none;
 	cursor: pointer;
 	font-size: 14px;
+	color: white;
 }
 
 .resume-btn:hover,
@@ -758,9 +761,7 @@ body.dark .edu-card {
 	line-height: 1.5;
 }
 
-.contact-info {
-	margin-top: 20px;
-}
+
 
 .info-item {
 	display: flex;

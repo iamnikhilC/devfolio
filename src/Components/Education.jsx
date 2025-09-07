@@ -1,5 +1,5 @@
 import React from "react";
-import "./Portfolio.css"; // custom CSS file
+import "../Css/Portfolio.css"; // custom CSS file
 
 const Education = () => {
   return (

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./Portfolio.css";
+import "../Css/Portfolio.css";
 
 const Header = () => {
 	const [darkMode, setDarkMode] = useState(false);
@@ -55,7 +55,7 @@ const Header = () => {
 								</button>
 							)
 						)}
-						<button className="resume-btn">
+						<a href="file/CV_nikhil_chichghare.pdf" download className="resume-btn">
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
 								width="16"
@@ -72,7 +72,8 @@ const Header = () => {
 								<path d="m7 10 5 5 5-5"></path>
 							</svg>
 							Resume
-						</button>
+						</a>
+						
 						<button
 							className="theme-btn"
 							onClick={() => setDarkMode((prev) => !prev)}

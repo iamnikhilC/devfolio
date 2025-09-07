@@ -1,6 +1,5 @@
 import React from "react";
-// import "./About.css";
-import "./Portfolio.css"
+import "../Css/Portfolio.css"
 
 function About() {
   return (

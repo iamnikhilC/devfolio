@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Portfolio.css";
+import "../Css/Portfolio.css";
 import Header from "./Header";
 import Hero from "./Hero";
 import About from "./About";

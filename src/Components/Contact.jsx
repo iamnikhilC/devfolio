@@ -1,5 +1,5 @@
 import React from "react";
-import "./Portfolio.css";
+import "../Css/Portfolio.css";
 
 export default function Contact() {
   return (
