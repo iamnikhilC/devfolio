@@ -56,7 +56,7 @@ function About() {
             <ul>
               <li>5+ production apps shipped</li>
               <li>Stripe, Razorpay, and Cashfree integrations</li>
-              <li>Auth: sessions, JWT, OTP, OAuth</li>
+              {/* <li>Auth: sessions, JWT, OTP, OAuth</li> */}
             </ul>
           </div>
         </div>
